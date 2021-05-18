@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @yashpathare21
 - 👀 I’m interested in Automation, Bots, and Start-Ups
-- 🌱 I’m currently learning Python
+- 🌱 I’m a Python Programmer
+- 👀 I'm Freelancer at Fiverr - https://www.fiverr.com/yashpathare21
 - 💞️ I’m looking to collaborate on Python projects or Start-Ups
-- 📫 How to reach me email:- yashpathare21@gmail.com  /  twitter:- @Yash0204
+- 📫 How to reach me e-mail - yashpathare21@gmail.com  or   twitter - @Yash0204
 
 
 <!---
